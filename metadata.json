@@ -1,0 +1,6 @@
+{
+  "name": "Pastelería Artesanal",
+  "description": "Sitio web moderno, responsivo y minimalista para una pastelería artesanal con menú de pasteles, galería visual de productos estrella, horarios y contacto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --color-cream: #FAF7F2;
+  --color-cream-soft: #F4EFEA;
+  --color-cream-card: #FFFFFF;
+  --color-pastry-border: #EADBCE;
+  --color-pastry-dark: #2D2422;
+  --color-pastry-muted: #736561;
+  --color-pastry-caramel: #B26A4D;
+  --color-pastry-caramel-hover: #985438;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream);
+  color: var(--color-pastry-dark);
+}
+
+.font-serif-title {
+  font-family: var(--font-serif);
+}
+
