@@ -23,7 +23,7 @@ export function Hero({ onExploreStar }: HeroProps) {
             </h1>
 
             <p className="text-lg text-[#736561] max-w-xl font-normal leading-relaxed mb-8">
-              ¿que planes tienes para este domingo? Quieres salir conmigo a caminar un rato y conocer algun lugar especial? Quieres ir a comer helado?
+              Creaciones de alta repostería elaboradas con mantequilla pura AOP, cacaos de origen ético y frutas frescas de temporada. Sin premezclas, sin aditivos, respetando los tiempos que exige la perfección.
             </p>
 
             <div className="flex flex-wrap items-center gap-4 mb-12">
@@ -33,7 +33,7 @@ export function Hero({ onExploreStar }: HeroProps) {
                 id="btn-hero-galeria"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 text-base font-semibold text-white bg-[#B26A4D] hover:bg-[#985438] rounded-lg shadow-sm transition-all duration-200 cursor-pointer"
               >
-                <span>Si, acepto salir contigo</span>
+                <span>Descubrir Productos Estrella</span>
                 <ArrowRight className="w-4 h-4" />
               </a>
 
@@ -42,7 +42,7 @@ export function Hero({ onExploreStar }: HeroProps) {
                 id="btn-hero-menu"
                 className="inline-flex items-center justify-center px-6 py-3.5 text-base font-semibold text-[#2D2422] bg-white hover:bg-[#F4EFEA] border border-[#EADBCE] rounded-lg transition-all duration-200 cursor-pointer"
               >
-                <span>EriPao dice a que hora</span>
+                <span>Ver Menú de Pasteles</span>
               </a>
             </div>
 
